@@ -10,7 +10,7 @@
       metaDescription: '程诺的个人主页与项目作品集，包含项目经验、技能与联系方式。',
       name: '程诺',
       nav: { about: '关于我', projects: '项目', skills: '技能', contact: '联系' },
-      hero: { eyebrow: '你好，我是', subtitle: '全栈开发 / 前端工程师 / 你的定位', resume: '下载简历', contact: '联系我' },
+      hero: { eyebrow: '你好，我是', subtitle: '数据科学家 / 机器学习工程师 / 人工智能工程师', resume: '下载简历', contact: '联系我' },
       about: {
         title: '关于我',
         p: '一到两段简介：你的专业背景、擅长领域、核心优势与职业目标。可提及技术栈、做过的代表性工作与影响力。',
@@ -63,7 +63,7 @@
       metaDescription: 'Personal portfolio of Your Name: projects, experience, skills and contact.',
       name: 'Nuo Cheng',
       nav: { about: 'About', projects: 'Projects', skills: 'Skills', contact: 'Contact' },
-      hero: { eyebrow: 'Hi, I am', subtitle: 'Full‑stack / Frontend Engineer / Your Positioning', resume: 'Download CV', contact: 'Contact Me' },
+      hero: { eyebrow: 'Hi, I am', subtitle: 'Data Scientist  / Machine Learning Engineer / AI Engineer / Quantitative Researcher', resume: 'Download CV', contact: 'Contact Me' },
       about: {
         title: 'About',
         p: 'One to two paragraphs: background, strengths, core advantages and career goals. Mention tech stack, representative work and impact.',
