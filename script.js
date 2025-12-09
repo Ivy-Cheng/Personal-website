@@ -6,9 +6,9 @@
   const i18n = {
     zh: {
       htmlLang: 'zh-CN',
-      siteTitle: '你的名字 · 个人主页',
-      metaDescription: '你的名字的个人主页与项目作品集，包含项目经验、技能与联系方式。',
-      name: '你的名字',
+      siteTitle: '程诺 · 个人主页',
+      metaDescription: '程诺的个人主页与项目作品集，包含项目经验、技能与联系方式。',
+      name: '程诺',
       nav: { about: '关于我', projects: '项目', skills: '技能', contact: '联系' },
       hero: { eyebrow: '你好，我是', subtitle: '全栈开发 / 前端工程师 / 你的定位', resume: '下载简历', contact: '联系我' },
       about: {
@@ -61,7 +61,7 @@
       htmlLang: 'en',
       siteTitle: 'Your Name · Portfolio',
       metaDescription: 'Personal portfolio of Your Name: projects, experience, skills and contact.',
-      name: 'Your Name',
+      name: 'Nuo Cheng',
       nav: { about: 'About', projects: 'Projects', skills: 'Skills', contact: 'Contact' },
       hero: { eyebrow: 'Hi, I am', subtitle: 'Full‑stack / Frontend Engineer / Your Positioning', resume: 'Download CV', contact: 'Contact Me' },
       about: {
